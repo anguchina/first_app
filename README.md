@@ -24,6 +24,7 @@ ruby 2.2
 
 * ...
 
+This is the first application for the ruby on rails
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
